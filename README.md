@@ -25,7 +25,7 @@ async function sendPostRequest() {
 sendPostRequest();
 ```
 
-this is an example that you can run on about:blank in the console and it will start generating links and putting them on the webpage (pls dont abuse, my website doesn't have ratelimits)
+this is an example that you can run on [about:blank](about:blank) in the console and it will start generating links and putting them on the webpage (pls dont abuse, my website doesn't have ratelimits)
 ```javascript
 const serverUrl = 'http://api.alexthedev.me/claim-rewards';
 document.body.innerHTML = "Discord links:"
